@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.squareBtn {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+  border: 1px solid red;
+}
+
+.squareLike {
+  background-color: red;
+}
+
+.moreText:hover {
+  color: aqua;
+  cursor: pointer;
+}
